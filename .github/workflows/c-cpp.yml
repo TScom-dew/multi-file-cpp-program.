@@ -8,6 +8,13 @@ on:
 
 jobs:
   build:
+    runs-on: ubuntu-latest
 
-    runs-on: windows-latest
-    
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Compile and Test C++ Code
+     
+      run: |
+        g++ main.cpp student.cpp -o program
+        echo "3" | ./program
