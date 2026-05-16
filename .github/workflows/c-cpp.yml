@@ -17,4 +17,4 @@ jobs:
      
       run: |
         g++ main.cpp student.cpp -o program
-        cout "3\nno\n" | ./program
+        printf "3\nno\n" | ./program
