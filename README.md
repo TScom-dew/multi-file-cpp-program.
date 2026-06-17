@@ -17,3 +17,8 @@ The program is split into 3 simple files:
 g++ main.cpp student.cpp -o program
 ./program
 ```
+
+---
+
+
+## Maintained by Ashlok Kumar [TScom-dew](https://github.com/TScom-dew/)
