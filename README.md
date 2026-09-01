@@ -3,8 +3,8 @@
 This is a simple C++ program that takes student data as input and displays it on the terninal. It is written using multiple files to keep the code clean and organized.
 
 ## What It Does:
-* **Input :** Takes student name, roll number, and marks from the user.
-* **Output :** Displays the complete data as a simple report card.
+* **Input:** Takes student name, roll number, and marks from the user.
+* **Output:** Displays the complete data as a simple report card.
 
 ## Program Structure:
 The program is split into 3 simple files:
