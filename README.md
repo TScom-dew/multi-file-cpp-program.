@@ -17,7 +17,6 @@ The program is split into 3 simple files:
 g++ main.cpp student.cpp -o program
 ./program
 ```
-
 ---
 
 
